@@ -1,2 +1,0 @@
-# Logistics
-Logistical Center
