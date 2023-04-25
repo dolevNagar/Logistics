@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dolevNagar/Logistics.git/static/css/main.ec7d597c.css",
+    "main.js": "/dolevNagar/Logistics.git/static/js/main.923f86cf.js",
+    "static/js/787.8aaa4a75.chunk.js": "/dolevNagar/Logistics.git/static/js/787.8aaa4a75.chunk.js",
+    "index.html": "/dolevNagar/Logistics.git/index.html",
+    "main.ec7d597c.css.map": "/dolevNagar/Logistics.git/static/css/main.ec7d597c.css.map",
+    "main.923f86cf.js.map": "/dolevNagar/Logistics.git/static/js/main.923f86cf.js.map",
+    "787.8aaa4a75.chunk.js.map": "/dolevNagar/Logistics.git/static/js/787.8aaa4a75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec7d597c.css",
+    "static/js/main.923f86cf.js"
+  ]
+}
