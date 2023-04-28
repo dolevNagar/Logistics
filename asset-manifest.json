@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dolevNagar/Logistics.git/static/css/main.ec7d597c.css",
-    "main.js": "/dolevNagar/Logistics.git/static/js/main.7ff897a5.js",
-    "static/js/512.3bfe339f.chunk.js": "/dolevNagar/Logistics.git/static/js/512.3bfe339f.chunk.js",
-    "index.html": "/dolevNagar/Logistics.git/index.html",
-    "main.ec7d597c.css.map": "/dolevNagar/Logistics.git/static/css/main.ec7d597c.css.map",
-    "main.7ff897a5.js.map": "/dolevNagar/Logistics.git/static/js/main.7ff897a5.js.map",
-    "512.3bfe339f.chunk.js.map": "/dolevNagar/Logistics.git/static/js/512.3bfe339f.chunk.js.map"
+    "main.css": "/Logistics/static/css/main.ec7d597c.css",
+    "main.js": "/Logistics/static/js/main.e4ddaf7f.js",
+    "static/js/787.8aaa4a75.chunk.js": "/Logistics/static/js/787.8aaa4a75.chunk.js",
+    "index.html": "/Logistics/index.html",
+    "main.ec7d597c.css.map": "/Logistics/static/css/main.ec7d597c.css.map",
+    "main.e4ddaf7f.js.map": "/Logistics/static/js/main.e4ddaf7f.js.map",
+    "787.8aaa4a75.chunk.js.map": "/Logistics/static/js/787.8aaa4a75.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec7d597c.css",
-    "static/js/main.7ff897a5.js"
+    "static/js/main.e4ddaf7f.js"
   ]
 }
